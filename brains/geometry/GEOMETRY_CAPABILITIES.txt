@@ -1,0 +1,106 @@
+AI CEO GEOMETRY BRAIN
+
+ANGLES
+- Triangle angle sum
+- Straight line
+- Angles around a point
+- Vertically opposite angles
+- Parallel lines
+- Corresponding angles
+- Alternate angles
+- Co-interior angles
+- Angle chasing
+
+TRIANGLES
+- Area
+- Pythagoras
+- Similarity
+- Congruence
+- SSS
+- SAS
+- ASA
+- AAS
+- RHS
+- Missing sides
+- Missing angles
+
+CIRCLES
+- Radius
+- Diameter
+- Circumference
+- Area
+- Semicircle
+- Arc length
+- Sector area
+- Chords
+- Tangents
+- Circle theorems
+- Cyclic quadrilaterals
+
+POLYGONS
+- Interior angle sum
+- Exterior angles
+- Regular polygons
+- Irregular polygons
+- Number of sides
+- Quadrilaterals
+- Pentagons
+- Hexagons
+- Octagons
+- Decagons
+
+COORDINATES
+- Distance
+- Midpoint
+- Gradient
+- Equation of line
+- Parallel lines
+- Perpendicular lines
+- Coordinate area
+- Intercepts
+
+TRANSFORMATIONS
+- Translation
+- Reflection
+- Rotation
+- Enlargement
+- Scale factor
+
+TRIGONOMETRY
+- SOHCAHTOA
+- Sine rule
+- Cosine rule
+- Area using sine
+- Bearings
+- Elevation
+- Depression
+
+3D GEOMETRY
+- Cube
+- Cuboid
+- Prism
+- Cylinder
+- Cone
+- Sphere
+- Hemisphere
+- Pyramid
+- Volume
+- Surface area
+- Composite solids
+
+COMPOSITE GEOMETRY
+- Compound shapes
+- Mixed shapes
+- Semicircle combinations
+- Rectangle + circle
+- Triangle + rectangle
+- Multiple regions
+- Perimeter
+- Area
+
+CHECKING
+- Independent calculation
+- Formula verification
+- Unit verification
+- Angle sanity check
+- Geometry consistency check
