@@ -1,0 +1,32 @@
+AI CEO COMMERCIAL SOURCE CODE LICENSE
+
+Copyright (c) 2026 AI CEO
+
+This software and its source code are provided under a commercial
+license.
+
+PURCHASER RIGHTS
+
+The purchaser may:
+- Download and use the source code.
+- Modify the source code for their own projects.
+- Run and customize the software.
+
+RESTRICTIONS
+
+The purchaser may not:
+- Resell the original source code.
+- Redistribute the source code publicly.
+- Upload the source code to a public repository.
+- Share the source code with people who have not purchased it.
+- Sell the source code as a standalone source-code product without
+  written permission from the seller.
+
+OWNERSHIP
+
+All rights not expressly granted remain with the seller.
+
+SUPPORT
+
+Technical support and customization are subject to the terms agreed
+between the seller and purchaser.
